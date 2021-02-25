@@ -18,8 +18,5 @@
   },
   "imports": {
     "#internal": "./internal.js"
-  },
-  "exports": {
-    ".": "./some-export.js"
   }
 }
